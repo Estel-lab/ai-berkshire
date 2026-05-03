@@ -151,6 +151,57 @@ AI Berkshire 确保：**同样的输入 → 结构一致、深度一致的输出
 
 ---
 
+## 整体架构
+
+```mermaid
+flowchart TB
+    User(["👤 一个人 + Claude"])
+
+    User --> Skills
+
+    subgraph Skills["🎯 Skill 入口 · 按场景选择"]
+        direction LR
+        S1["/investment-research<br/>综合深度分析"]
+        S2["/investment-team<br/>多Agent团队"]
+        S3["/investment-checklist<br/>买入前清单"]
+        S4["/industry-research<br/>产业链扫描"]
+        S5["/private-company-research<br/>未上市研究"]
+        S6["/news-pulse<br/>异动归因"]
+    end
+
+    Skills --> Core
+
+    subgraph Core["🧠 多Agent 并行核心 · 四大师方法论对抗"]
+        direction TB
+        Lead{{"Team Lead<br/>统筹 · 综合研判"}}
+        Lead --> A1["商业模式<br/>📍 段永平视角"]
+        Lead --> A2["财务估值<br/>📍 巴菲特视角"]
+        Lead --> A3["行业竞争<br/>📍 芒格视角"]
+        Lead --> A4["风险管理层<br/>📍 李录视角"]
+    end
+
+    Core --> Tools
+
+    subgraph Tools["🔧 工具与数据层"]
+        direction LR
+        T1["financial_rigor.py<br/>精确十进制计算"]
+        T2["WebSearch / WebFetch<br/>实时信息检索"]
+        T3["xueqiu_scraper.py<br/>大V观点抓取"]
+        T4["report_audit.py<br/>报告抽检准出"]
+    end
+
+    Tools --> Report
+
+    Report(["📄 结构化研究报告<br/>reports/{公司}/*.md"])
+```
+
+**三层设计哲学**：
+- **Skill 层**：把"你要做什么"抽象成 6 个明确入口——深度研究、快速筛选、行业扫描、未上市公司、异动归因，按场景选用
+- **Agent 层**：每个 skill 内部都是 4 个 Agent 并行——它们各自独立搜索、独立判断、互相挑战，最后由 Team Lead 综合
+- **工具层**：精确计算、实时检索、报告抽检——保证每份报告的数据严谨性可验证
+
+---
+
 ## Skills 一览
 
 | Skill | 用途 | 适合场景 |
@@ -160,6 +211,7 @@ AI Berkshire 确保：**同样的输入 → 结构一致、深度一致的输出
 | [`/investment-checklist`](skills/investment-checklist.md) | 巴菲特买入前 Checklist | 快速筛选，决定是否值得深入研究 |
 | [`/industry-research`](skills/industry-research.md) | 产业链全景扫描 | 研究一个行业/主题的全部投资机会 |
 | [`/private-company-research`](skills/private-company-research.md) | 未上市公司深度研究 | 研究蚂蚁、SpaceX等未上市公司 |
+| [`/news-pulse`](skills/news-pulse.md) | 股价异动新闻归因 | 股价大涨/大跌时10分钟搞清"发生了什么" |
 
 ---
 
@@ -369,6 +421,55 @@ cp ai-berkshire/skills/*.md ~/.claude/commands/
 
 ---
 
+### 6. `/news-pulse` — 股价异动新闻归因
+
+专为"股价大涨/大跌时快速搞清发生了什么"设计的情报响应 Skill。**不是深度投研，是 10-15 分钟的快速归因**——避免持仓异动时陷入小作文焦虑或盲目止损。
+
+**核心差异化**：
+- **4 维并行侦察**：公司事件 / 监管政策 / 行业对手 / 市场情绪（卖方+大V+南向资金）
+- **归因优先于罗列**：不是把所有新闻列一遍，而是判断"哪个事件配得上这次股价异动"
+- **强制性质判断**：价值事件 / 情绪波动 / **真因不明** / 混合——其中"真因不明"是最有价值的输出（可能存在内幕抢跑）
+- **明确行动建议**：是否触发深度研究、是否需要重审论文、是否仅观察等
+
+**与其他 Skill 的区别**：
+| 场景 | 用什么 |
+|------|------|
+| 完整投研（小时级） | `/investment-team` 或 `/investment-research` |
+| 财报深读 | `/earnings-review` |
+| 长期论文跟踪 | `/thesis-tracker` |
+| **股价异动 10 分钟归因** | **`/news-pulse`** |
+
+**输出示例摘录**（腾讯 4/17-5/01 实测，14 天 -10.47%）：
+
+> #### 一句话归因
+> 这次 -10.47% 跌幅约 70-80% 由资金面+情绪面驱动（回购静默期 + 南向减仓 + 板块 beta + AI 叙事被夺），20-30% 由 AI 投入翻倍的递延消化承担——**基本面无利空**，卖方维持买入共识，性质上属于"流动性+情绪型回调"，不是价值事件。
+>
+> #### 异动归因表
+>
+> | 候选解释 | 估算贡献 | 置信度 |
+> |---------|--------|--------|
+> | 回购静默期消失（结构性，5/13 财报前） | -3% ~ -4% | 高 |
+> | 南向资金转向净卖腾讯 | -2% ~ -3% | 高 |
+> | AI 叙事被竞品夺走（DeepSeek V4/Qwen3.6/月暗 1T） | -1% ~ -2% | 中 |
+> | 板块/宏观 beta（油价+地缘+Fed Warsh 鹰派） | -2% ~ -3% | 高 |
+> | 一季报前避险 | -1% ~ -2% | 中 |
+> | 基本面恶化 | **0%** | 极高（排除） |
+>
+> #### 性质判断：✅ 混合型
+> 70% 资金面/情绪面 + 20% AI 长期叙事担忧 + 10% 一季报前不确定性
+>
+> **关键反证**：段永平 4/8 卖腾讯 put（看多）；卖方 24 家共识 Strong Buy；网易 4/30 逆市涨 2%（排除游戏行业问题）；腾讯跑输恒科 7 个百分点（恒科月度反而涨 4%）。
+
+调用方式：
+
+```
+/news-pulse 腾讯
+/news-pulse 拼多多 跌12% 一周内
+/news-pulse 米哈游
+```
+
+---
+
 ## 实战研究报告
 
 > 以下是使用本框架生成的真实投资研究报告，展示 AI 投研的实际输出效果。
@@ -434,6 +535,7 @@ cp ai-berkshire/skills/*.md ~/.claude/commands/
 - [x] 产业链全景扫描
 - [x] 未上市公司研究框架
 - [x] 金融严谨性工具（精确算术、市值验算、多源交叉验证、Benford定律检测）
+- [x] 股价异动快速归因（`/news-pulse` 4 维并行侦察）
 - [ ] 港股/A股/美股财报自动解读
 - [ ] 投资组合跟踪与再平衡
 - [ ] 历史回测：AI研报 vs 实际股价表现
