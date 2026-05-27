@@ -1,7 +1,7 @@
 # 瓶颈猎手观察名单（持续更新）
 
-最后更新：2026-05-27 10:10（第十九轮扫描 — Almonty June 9三重催化剂时间节点确认；Sangdong钼矿新增；光纤军用无人机需求维度新增）  
-下次复查：下次扫描
+最后更新：2026-05-27 午后扫描（第十九轮 — Nittobo FY2026实际P/E确认24.2x；WF6库存1-2月临界；Aixtron Q2拐点确认；钨价分化警示；Chemring £47M新合同）  
+下次复查：June 9 Chemring半年财报
 
 ---
 
@@ -24,16 +24,17 @@
 - ✅ 市值从ATH回调21%（ATH ¥32,900于5/7；今日5/26跌-6.1%至¥25,890）
 - ✅ **【2026-05-26 11:10 新增】Nvidia已签中长期绑定合同**（Digitimes确认），不再是"竞争配额"而是"锁定供给"，其他CSP被进一步挤出
 - ✅ **【2026-05-26 11:10 新增】Meritz证券新研报**：《T-glass缺口加速及未来影响（以三星电机为例）》——首次将三星电机列为受损下游，引发市场更广泛关注
-- ✅ **【2026-05-26 13:14 新增】5:1股票拆分（2026-07-01生效）+ 上调FY2026业绩展望**：管理层对未来的信心信号；拆分后每股约¥5,178，散户门槛显著降低；流动性提升预期；拆分前后关注成交量变化；下季度业绩2026-08-05
-- 🔴 **【2026-05-26 15:26 重大价格事件】5月20日收盘¥21,090，低于目标入场区间下限¥22,000**——目标区间已被触及；目前从低点反弹至~¥25,310（+14.94% in 24h per search sources）；拆分后对应约¥5,062。**重要：如果股价再次回落至¥22,000-24,000（拆分前）即¥4,400-4,800（拆分后），是较明确的入场信号。**
-- ✅ **【2026-05-26 16:12 新增】次代T-glass 2028路线图确认**（TrendForce）：CTE从2.8 ppm改善至2.0 ppm（约30%提升）；预期客户Nvidia/Apple/Google同一阵容；2028年推出意味着Nan Ya 2027年20%替代只能覆盖当前规格，无法替代最先进需求；Nittobo技术领先地位延续至2028+
+- ✅ **【2026-05-26 13:14 新增】5:1股票拆分（记录日2026-06-29，生效约2026-07-01）+ 上调FY2026业绩展望**：拆分后每股约¥5,178，散户门槛显著降低；流动性提升预期；下季度（FY2027 Q1）业绩约2026-08-05
+- 🔴 **【2026-05-26 15:26 重大价格事件】5月20日收盘¥21,090，低于目标入场区间下限¥22,000**——目标区间已被触及；目前从低点反弹至¥25,890（5月26日）。若股价再次回落至¥22,000-24,000（拆前）/ ¥4,400-4,800（拆后7/1）为明确入场信号
+- ✅ **【2026-05-26 16:12 新增】次代T-glass 2028路线图确认**（TrendForce）：CTE从2.8 ppm改善至2.0 ppm（约30%提升）；Nan Ya 2027年20%替代只能覆盖当前规格；Nittobo技术领先地位延续至2028+
+- ✅ **【2026-05-27 午后 FY2026实际财报确认】2026-05-12发布**：净利润¥38B（+3x YoY，兑现¥38B指引），P/E实际值**24.2x**（¥921.4B/¥38B，绿灯基于实际数字）；股息从¥114升至**¥127/股**（管理层信心）；**中期管理目标上调**（AI驱动玻纤需求加速）；T-glass FY2026销售+20% YoY；投资¥15B三倍福岛产能（2027H2上线）
 - ⚠️ T-glass约为Nittobo总营收约20%（估计），低于30%纯正度门槛（纯正度问题存在但T-glass是最高利润率分部）
 - ⚠️ Nan Ya 2027年替代路径存在（20%），长期垄断将部分弱化
 - ⚠️ 日元汇率影响汇算收益
 
-**估值安全边际**：以¥921.4B（$5.9B）买入，10年25xPE退出，年化10%回报需净利润$612M（对应营收$3.5B，是当前$715M的4.9倍），CAGR约17%。目标可行但不宽裕。若按5月20日低点¥21,090买入（P/E约18-19x），年化回报约12%，具备一定安全边际。目标入场区间：¥22,000-24,000（拆分前）/ ¥4,400-4,800（拆分后，2026-07-01）。  
-**催化剂**：**2026-07-01股票拆分生效**（近期）；Q4 FY2026业绩（2026年秋季，业绩下季2026-08-05）；Nittobo Integrated Report 2026（确认T-glass收入占比）；2026年底Nan Ya产能能否如期投产（验证替代威胁时间线）  
-**建议动作**：加入重点关注；执行/bottleneck-hunter深入研究；等候进一步回调至目标区间（拆分后约¥4,400-4,800/股）考虑建仓  
+**估值安全边际（2026-05-27更新）**：基于FY2026实际净利¥38B：P/E 24.2x（¥921.4B/¥38B），绿灯。以¥25,890（当前价）买入，10年25xPE退出，年化10%回报需净利润¥556B（约$3.5B，约FY2026净利的14.6倍），CAGR约14%。若FY2027净利+20%（假设T-glass需求持续），则P/E约20.2x，forward估值更具吸引力。**若跌回¥22,000-24,000（P/E约18-20x）则具备真正安全边际，年化回报约12-13%**。  
+**催化剂**：**股票拆分记录日2026-06-29**（35天后）；FY2027 Q1业绩（约2026-08-05）；Nittobo年报分部披露（确认T-glass收入占比）；Nan Ya 2027年产能时间线验证  
+**建议动作**：等回调至目标区间（拆分前¥22,000-24,000 / 拆分后¥4,400-4,800）建仓；当前¥25,890偏高约8-18%，不追高  
 **加入日期**：2026-05-26  
 **来源**：[Yahoo Finance 3110.T](https://finance.yahoo.com/quote/3110.T/) | [Tom's Hardware](https://www.tomshardware.com/tech-industry/shortages-of-crucial-chip-packaging-material-threatens-ai-accelerator-supply-chains-nittobos-fukushima-plant-is-tripling-capacity-but-itll-take-years-before-market) | [SmartKarma估值](https://www.smartkarma.com/insights/nittobo-3110-jp-scarcity-premium-in-ai-substrates-with-strong-earnings-visibility) | [Global Tech Research](https://globaltechresearch.substack.com/p/nittobo-3110-jp-the-king-of-electronic) | [Globe and Mail 股票拆分](https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/2122978/nittobo-announces-five-for-one-stock-split-and-boosts-authorized-shares/)
 
@@ -82,6 +83,7 @@
 - ✅ NC供需缺口确认：欧洲实产4,500-10,000吨/年 vs 需求>20,000吨/年（缺口>50%）
 - ✅ **【2026-05-26 12:13 NC护城河升级】** NAPIM正式声明NC短缺已蔓延至商业油墨/清漆行业；AAC暂停生产（"主要火药供应商将全部库存转交军事合同"）；NC军用优先级全面提升→Chemring Nobel军用NC定价权进一步强化
 - ✅ **【2026-05-26 15:26 Tennessee问题确认解决】**：公司AGM更新声明Tennessee Countermeasures自动化工厂生产中断"已基本解决"（largely resolved）；FY26收入覆盖率升至85%（前年81%同期81%）；老旧生产线退役→将产能迁往新自动化设施（非现金减值）；FY26加权H2，但整体全年目标不变
+- ✅ **【2026-05-27 午后 新合同确认】**：Chemring Energetics UK（CEUK）赢得**NLAW下一代轻型反坦克导弹火箭发动机合同£24M**（2027-2028交付），NLAW总积累合同£90M自2023年；Chemring Nobel赢得**Nammo HMX产品合同£23M**；本月新增£47M合同，订单簿持续增长（2026-01-30为£1.364B）
 - ⚠️ 英国财政压力可能影响国内订单
 - ⚠️ 公司体量相对小，单一客户依赖需核实
 - ⚠️ **【2026-05-26 16:12 新增风险项】BAE Systems无NC/NG推进剂技术"预计2026年底达工业成熟"**——若成立，Chemring Nobel的NC护城河有长期时间线风险；但BAE目前仍处pilot阶段，2026年底是BAE自我表述，历史上此类技术突破普遍延期；短期（June 9财报）不影响；中长期（2027+）需监控
@@ -130,7 +132,7 @@
 
 ## 持续跟踪（信号强度★★★）
 
-### 4b. Kanto Denka Kogyo（TSE: 4047.T）⏳ 待纯正度验证 🟡 P/E修正 【2026-05-26 14:11 初步识别 | 2026-05-26 16:12 估值黄灯 | 2026-05-27 09:10 P/E重大修正】
+### 4b. Kanto Denka Kogyo（TSE: 4047.T）⏳ 待纯正度验证 🟡 P/E修正 ⚡WF6库存1-2个月临界 【2026-05-26 14:11 初步识别 | 2026-05-27 午后 WF6时间线升级】
 **瓶颈环节**：NF3/WF6半导体特种气体（A级，见master-map 3b条目）  
 
 **市值（更新）**：¥135.7B ≈ **$872M USD**（小市值✅）  
@@ -167,7 +169,17 @@
 
 **估值安全边际（修正后）**：以¥135.7B（$872M）买入，10年25xPE退出，年化10%需净利润$90M（FY2026已¥3.79B/$24M，需3.8倍，CAGR约14%）。P/E修正为35.8x后，安全边际判断：当前价格（¥2,550）仍无充足安全边际；但较前评估"仅靠拐点假设才能支撑"有本质改善——**实际P/E 35.8x + Fine Chemicals确认增长 = 论点更扎实**。目标入场价不变：¥1,800-2,000（P/E ~25-28x）。
 
-**建议动作（修正后）**：不追高；等回调至¥1,800-2,000（P/E ~25-28x）再重评。**FY2026年报分部披露（预计秋季）确认Fine Chemicals>30%收入后，评级可升至★★★★**（P/E 36x+纯正度确认+利润拐点 = 三条标准满足）。
+**【2026-05-27 午后 WF6临界时间线更新】**：
+- TrendForce 2026-04-08原文：日本WF6供应商"现有库存仅维持至2026年中"
+- **今日2026-05-27："2026年中" = 6-7月 = 距今1-2个月**
+- 这是极度时效敏感的催化剂：WF6中断将导致Samsung/SK Hynix/TSMC/Kioxia紧急寻求替代来源
+- Kanto Denka是**日本唯一主要WF6+NF3供应商**，不存在日本内部替代
+- 若WF6中断消息出现（媒体、财报披露、行业协会），可能是在当前¥2,550高位之上的阶段性突破信号
+
+**建议动作（更新）**：
+- 正常入场：等回调至¥1,800-2,000（P/E ~25-28x）再重评
+- **WF6中断催化剂入场**：若6-7月出现WF6供应中断新闻/价格暴涨，可考虑突破目标区间的"催化剂入场"，但需更高确定性（WF6价格数据、客户公告）
+- **FY2026年报分部披露（预计秋季）** 确认Fine Chemicals>30%收入后，评级可升至★★★★
 
 **加入日期**：2026-05-26  
 **来源**：[Kanto Denka +24% - Meyka](https://meyka.com/blog/kanto-denka-kogyo-surges-24-as-chemical-demand-accelerates-1805/) | [TrendForce WF6供应中断](https://www.trendforce.com/news/2026/04/08/news-potential-supply-disruptions-of-tungsten-hexafluoride-from-japan-implications-for-the-semiconductor-industry/) | [Kanto Denka火灾 TrendForce](https://www.trendforce.com/news/2025/08/14/news-japans-kanto-denka-kogyo-fire-threatens-nf%E2%82%83-supply-alerts-chipmakers-like-tsmc-and-rapidus/) | [Kanto Denka earnings upgrade - TipRanks](https://www.tipranks.com/news/company-announcements/kanto-denka-kogyo-lifts-full-year-earnings-forecast-on-strong-fine-chemicals-sales)
@@ -240,6 +252,7 @@
 - ✅ Oklo JV 洽谈（HALEU 脱转化服务，Piketon 成燃料中枢）
 - ✅ 2026 年收入指引上调至 $450-500M（已确认）
 - ⚠️ **Q1 2026净利润大幅下滑（2026-05-26新增）**：收入$76.7M(+5% YoY)，但净利润从$27.2M降至$10M——同比-63%。需关注盈利质量下降是否结构性
+- ⚠️ **【2026-05-27 午后 紧急：DOE Phase III到期6月30日（约34天）】**：DOE HALEU Phase III合同到期日2026-06-30。若无续约公告则HALEU生产可能暂停，影响$450-500M年收入指引。**本周必须搜索DOE续约公告**。ASP Isotopes（ASPI）2028年HALEU交付MOU为信号，但不影响Centrus近期垄断
 - ⚠️ SMR 商业化时间线多次延迟（NuScale UAMPS 项目已取消）
 - ❌ 尚无大型商业客户签约（TerraPower、Kairos 等仍在建设阶段）
 - ⚠️ **【2026-05-27 新增】ASP Isotopes (ASPI) 竞争者进入**：子公司QLE于5月11日与欧洲核技术公司签非约束性HALEU供应MOU，2028年开始交付；ASPI市值~$664M，Q1 2026收入仅$4.2M（核医学为主，无HALEU商业收入），P/S~28x，仍属开发阶段。Centrus为唯一当前具备商业HALEU生产的西方公司，近期垄断地位不受实质影响；2028年后竞争格局有所变化，需持续监控。
@@ -325,6 +338,15 @@
 - Phase 2（2027年，460,000 MTU/年）推进进度
 
 **评级维持★★**：叙事进一步升级，June 9三重催化剂是近期最重要监控节点；但股价已充分定价已知信息，无安全边际，不追高。Phase 2获批+Sangdong产量超预期 → 升★★★。
+**【2026-05-27 午后 钨价分化警示】**：
+- 中国国内APT 2026-05-19已从峰值下跌**55.3%**（至RMB 680,000/吨）
+- 欧洲国际APT仍为**$3,000-3,280/MTU**（较2026年初+241%）
+- Almonty销售国际价格，直接影响不大；但中国国内价格通常领先国际价格6-12个月
+- Trump-Xi峰会无具体钨出口管制放松；"Kazakhstan Trump相关钨协议"报道中期潜在供给竞争——待核实
+- **对Almonty前向收入预测的影响**：若国际APT从$3,140/MTU跌至$2,000/MTU，前向收入从$470M降至约$300M，前向P/S从8x升至12.7x——估值保护减弱
+- **月度监控项**：Fastmarkets欧洲APT月度数据；关注是否有中国供给重回国际市场迹象
+
+**评级维持★★**：前向收入逻辑合理（Forward P/S ~8x），商业化生产已启动；但股价YTD +93%已充分定价；钨价中期走势是最大不确定性；等Q2/Q3产量验证再考虑升级。
 
 **加入日期**：2026-05-26  
 **来源**：[InvestingNews Q1](https://investingnews.com/almonty-industries-reports-first-quarter-2026-financial-results/) | [StockAnalysis AII](https://stockanalysis.com/quote/tsx/AII/) | [Almonty TPW offtake](https://almonty.com/binding-offtake-agreement-to-supply-tungsten-oxide-solely-for-us-defense-applications/) | [Almonty Montana HQ](https://www.businesswire.com/news/home/20260413261619/en/Almonty-Industries-Establishes-U.S.-Corporate-Headquarters-Reinforcing-Role-as-Americas-Tungsten-Supplier) | [NBC Montana](https://nbcmontana.com/news/local/almonty-industries-moves-headquarters-to-montana-as-tungsten-push-intensifies)
@@ -419,3 +441,9 @@
 | 2026-05-27 09:10 | InP条目 | **Space-BACN → DIU转移背景信号** | DARPA Space-BACN项目移交DIU采购；Mbryonics/RKLB(Mynaric)终端已完成研发，夏季性能验证测试；InP第三需求向量（军用卫星OISL）进入实际采购阶段；S级评级不变 |
 | 2026-05-27 10:10 | AII.TO | **⚡ June 9三重催化剂时间节点确认（评级★★维持）** | Phase 2扩产股东投票（多伦多6/9）+首批Sangdong Q2生产数据+新CFO Jorge Beristain（6/1就职）三重汇聚；Phase 2批准后Forward P/S从~8x→~4x；钼矿资产（60年寿命，2026年底投产）首次记录；评级维持★★但June 9为关键升级触发点 |
 | 2026-05-27 10:10 | 11c光纤 | **军用无人机需求维度新增** | fiber-tethered drones（纤维牵引无人机，FPV无人机）纳入光纤需求计算，进一步强化B级瓶颈论点；无新投资标的 |
+| 2026-05-27 午后 | 3110.T Nittobo | **FY2026实际财报确认，P/E从24.8x修正为24.2x（实际净利）** | 2026-05-12：净利¥38B（实际兑现，+3x YoY）；股息¥127（vs¥114）；中期目标上调；T-glass销售+20% FY2026；P/E 24.2x绿灯基于实际数字；估值安全边际：¥22,000-24,000入场年化约12-13%；评级★★★★维持 |
+| 2026-05-27 午后 | 4047.T Kanto Denka | **WF6库存临界时间线升级：1-2个月内（⚡近期催化剂）** | TrendForce原文"现有库存仅维持至2026年中"= 6-7月 = 距今1-2个月；信号从"H2 2026潜在风险"升级为"近期临界催化剂"；建议动作增加"WF6中断催化剂入场"条件；评级★★★维持 |
+| 2026-05-27 午后 | CHG.L Chemring | **新合同£47M（NLAW £24M + HMX £23M）** | Chemring Energetics UK赢得NLAW火箭发动机合同£24M；Chemring Nobel赢得Nammo HMX合同£23M；订单簿持续增长；June 9半年财报倒计时12天；评级★★★★维持 |
+| 2026-05-27 午后 | LEU Centrus | **紧急：DOE Phase III 6/30到期（约34天）** | DOE HALEU Phase III合同到期日2026-06-30，若无续约则HALEU生产可能暂停；评级★★★维持但紧迫性升高；本周须搜索续约公告 |
+| 2026-05-27 午后 | AII.TO Almonty | **钨价分化警示：中国国内-55%，国际仍高** | 中国国内APT 5/19从峰值下跌55.3%；欧洲国际APT仍$3,000-3,280/MTU；Almonty不受直接影响但中期警示信号；Kazakhstan钨协议待核实；评级★★维持 |
+| 2026-05-27 午后 | AIXA Aixtron | **Q2指引€110M确认H2拐点（±执行风险降低）** | Q2 2026指引收入约€110M（Q1 €59M，+85%环比）；光电子/InP订单65%+；H2执行置信度从"中等"升至"较高"；仍需等Q3确认后执行/investment-team；评级★★★★维持 |

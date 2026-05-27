@@ -1,6 +1,6 @@
 # 供应链瓶颈总地图（持续更新）
 
-最后更新：2026-05-27 10:10（第十九轮扫描 — Almonty June 9三重催化剂时间节点；Sangdong钼矿首次记录；光纤军用无人机需求维度）
+最后更新：2026-05-27 午后扫描（第十九轮 — WF6库存临界6-7月倒计时、Nittobo FY2026实际P/E 24.2x确认、Aixtron Q2拐点验证、钨价中国国内-55%国际仍高）
 
 ---
 
@@ -170,9 +170,16 @@
 - NF3：Mitsui退出为结构性减供；Kanto Denka是唯一主要日本来源；与钨出口管制**独立**
 - WF6：受钨出口管制连带；多家日本厂商均受影响，非单一供应商
 
-**相关公司**：**Kanto Denka Kogyo（TSE: 4047.T，初步识别，待确认>30%纯正度）**
-- 市值：¥90-98B ≈ $580-630M；P/S ~1.4x；P/E ~24x；日本NF3+WF6+ClF3+SF6全系列特种气体
+**【2026-05-27 午后 WF6库存临界时间线更新】**：
+- TrendForce 2026-04-08：日本WF6供应商通知韩国客户"H2 2026可能中断，**现有库存仅维持至2026年中**"
+- **"2026年中" = 6-7月 = 距今约1-2个月（今日2026-05-27）**
+- 这将A级瓶颈信号从"H2 2026潜在风险"升级为**"近期1-2个月临界催化剂"**
+- 如果WF6中断发生，Kanto Denka是唯一主要日本替代供应来源
+
+**相关公司**：**Kanto Denka Kogyo（TSE: 4047.T，待确认>30%纯正度）**
+- 市值：¥135.7B ≈ $872M；P/S ~2.1x；**P/E ~35.8x（FY2026实际净利¥3.79B，修正后）**；日本NF3+WF6+ClF3+SF6全系列特种气体
 - 下游客户：TSMC、Samsung、Micron、Sony、Kioxia、Rapidus
+- FY2026 Fine Chemicals"销售超出预期"= NF3/WF6瓶颈利润已开始兑现
 - 关键未确认项：Precision Chemicals分部收入占比（需>30%确认纯正度）
 
 **来源**：[TrendForce WF6 2026-04-08](https://www.trendforce.com/news/2026/04/08/news-potential-supply-disruptions-of-tungsten-hexafluoride-from-japan-implications-for-the-semiconductor-industry/) | [The Elec 钨供应风险](https://www.thelec.net/news/articleView.html?idxno=6325) | [Digitimes SK Hynix+氦气+钨](https://www.digitimes.com/news/a20260409PD211/2026-sk-hynix-chipmakers-production.html) | [Sourceability Kanto Denka火灾](https://sourceability.com/post/supply-chain-shocks-nf3-fire-natcast-fallout) | [TrendForce Kanto Denka NF3火灾](https://www.trendforce.com/news/2025/08/14/news-japans-kanto-denka-kogyo-fire-threatens-nf%E2%82%83-supply-alerts-chipmakers-like-tsmc-and-rapidus/)
@@ -196,12 +203,13 @@
 - Morgan Stanley预计2027年ABF严重短缺
 - **投资意义**：Ajinomoto食品主业，ABF非主业，非纯正标的
 
-**核心数据（L3材料层二：T-glass玻纤布）【2026-05-26午后 识别出可投资标的】**：
+**核心数据（L3材料层二：T-glass玻纤布）【2026-05-26午后 识别出可投资标的 | 2026-05-27午后 FY2026业绩确认】**：
 - **Nittobo（TYO:3110）**持有全球T-glass约90-100%市场份额（唯一稳定量产商）
 - T-glass（低膨胀系数玻纤布）是ABF基板的关键基材，防止先进AI芯片封装中的基板翘曲
 - Nittobo已于2025年8月涨价20%；2026年4月再涨20-30%
 - H2 2026供应缺口预计>40%（Morgan Stanley估计）；Nan Ya Plastics合作伙伴计划2027年提供Nittobo产量约20%替代
-- **可投资标的：Nittobo（3110.T）**：市值¥921.4B≈$5.9B；P/E **24.8x**（同业均值25.8x）；P/S约8.3x；5分析师Buy，0 Sell；**估值绿灯**；Apple/Nvidia/Google/Amazon均在争夺产能；已从ATH ¥32,900回调21%至¥25,890；**2026-05-26 13:14更新：5:1股票拆分（生效2026-07-01）+上调FY2026业绩展望**——正面催化剂；拆分后散户准入门槛降低，流动性扩大
+- **【2026-05-27 FY2026业绩确认（2026-05-12发布）】**：净利润¥38B（+3x YoY，较预期¥38B兑现），操作利润¥20B，收入¥120B；股息从¥114升至**¥127/股**；**中期管理目标上调**（AI驱动玻纤需求加速）；T-glass销售FY2026预计+20% YoY；投资¥15B三倍产能（福岛工厂，2027年H2上线）
+- **可投资标的：Nittobo（3110.T）**：市值¥921.4B≈$5.9B；**P/E 24.2x（FY2026实际净利¥38B，绿灯）**；P/S约7.7x；5分析师Buy，0 Sell；**估值绿灯**；Apple/Nvidia/Google/Amazon均在争夺产能；已从ATH ¥32,900回调21%至¥25,890（5月20日低至¥21,090，已反弹）；**5:1股票拆分记录日2026-06-29（生效日约2026-07-01）**——拆分后约¥5,178/股
 
 **主要供应商**：Samsung Electro-Mechanics (009150), Ibiden (4062), Shinko Electric (6967), Unimicron (3037)  
 **原材料供应商**：Ajinomoto（TYO:2802，ABF膜95%份额，非纯正标的）| **Nittobo（3110.T，T-glass ~90-100%，✅可投资，估值绿灯）**  
@@ -327,7 +335,8 @@
 ### 11c. 光纤预制棒（Optical Fiber Preform）— AI数据中心光纤饥荒新浮现 【2026-05-26 19:06 新增，B级】
 **核心数据**：
 - AI GPU集群需传统服务器架构**36倍光纤**互联量（Tom's Hardware）；Meta路易斯安那1M GPU园区消耗"800万英里光纤"
-- **G.652D光纤价格2026年1月单月+75%**；G.657A2（高密度接入光纤）近翻倍
+- **G.652D光纤价格2026年1月单月+75%；Q1整体+136%（CRU欧洲数据，2026-05-27新增）**；G.657A2（高密度接入光纤）近翻倍
+- **新角度（2026-05-27）**：乌克兰无人机用光纤缠绕卷因AI数据中心需求竞争价格涨幅高达8倍（DronXL 2026-05-11）——AI需求与军事需求竞争同一光纤产能，需求端超预期扩大
 - 中国主要厂商（YOFC、长飞、亨通等）订单延伸至**2027年**（Digitimes，2026-05-15）
 - 预制棒（Preform）是光纤生产上游关键原材料，扩产周期 **18-24个月**——物理约束明确
 
@@ -455,4 +464,4 @@
 | 2026-05-27 08:30 | **第十六轮扫描 — 3项小状态更新，无新标的** | ①ASP Isotopes (ASPI, ~$664M市值) 5月11日签非约束性HALEU供应MOU（Quantum Leap Energy子公司与欧洲核技术公司），2028年开始交付——HALEU供应竞争新参与者，但ASPI仍开发阶段（P/S~28x，Q1收入仅$4.2M），不影响Centrus近期垄断地位；②L3Harris Missile Solutions确认品牌名"Axyz"，S-1已于4月29日提交，DoD $10亿优先股已完成，H2 2026目标上市；③钨价补充数据：trailing 12个月+900%（PR Newswire，APT现价$3,185/MTU），YTD+350%，与原记录$3,185/MTU一致，价格基础数字修正（原记录"管制前+557%"更改为"trailing 12个月+900%"）；所有其余监控瓶颈状态不变 |
 | 2026-05-27 09:00 | **第十七轮扫描 — 钇半导体设备涂层新向量（0c2扩展），Trump-Xi峰会无实质协议** | ①**0c2条目新增半导体设备向量**：Y₂O₃腔体涂层/保护件用于等离子蚀刻设备（Lam/AMAT/TEL），与SmCo国防磁体独立但同源于钇管制；美国钇进口-94.9%（333吨→17吨/8个月），价格约70-140x（来源有分歧）；2家北美涂层商已暂停生产（Reuters）；②Trump-Xi北京峰会（5/14-18）结果：白宫称中国"同意解决"钇/钪关切，但中国官方声明未提稀土，Mining.com称"未确认协议"；中国出口管制制度定性为合法且长期；③无新可投资标的（涂层商均非小市值纯正上市标的）；Aixtron AGM通过全部议案（GaN新订单，无新光电子订单）；Nittobo拆分7/1确认，当前¥25,890高于目标入场区间 |
 | 2026-05-27 09:10 | **第十八轮扫描 — Kanto Denka P/E修正，Space-BACN DIU转移** | ①**NF3/WF6（3b条目）Kanto Denka状态更新**：FY2026全年净利润¥3.79B（+17%），Fine Chemicals"销售超出预期"；watchlist 16:12条目P/E 76.3x系计算错误，正确值**35.8x**（¥135.7B/¥3.79B）；NF3瓶颈利润兑现已开始；②**InP S级（条目1）需求向量更新**：DARPA Space-BACN → DIU转移（2026年5月），Mbryonics/RKLB(Mynaric) OISL终端已完成研发，夏季性能验证后DIU招标采购，InP第三需求向量（军用卫星）进入实际采购阶段；③**ATALF新竞争者**：American Tungsten & Antimony（OTCQB，$90M）Cedar City锑加工厂宣布（2026-05-22），首批犹他州锑锭已交付；不在可投资范围，作为UAMY竞争格局监控 |
-| 2026-05-27 10:10 | **第十九轮扫描 — Almonty June 9三重催化剂** | ①**Almonty（钨S级条目0c）状态更新**：June 9三重催化剂汇聚确认——Phase 2股东扩产投票（多伦多）+ 首批Sangdong商业生产Q2数据公布 + 新CFO Jorge Beristain 6月1日就职；若Phase 2获批，产能2,300→4,600 MTU/年，非中国来源覆盖约40%全球非中国需求，Forward P/S从~8x→~4x；②**Sangdong钼矿（首次记录）**：Sangdong Molybdenum Project已获全部许可，2026年底投产，60年矿山寿命；附加资产，不改变近期投资逻辑；③**光纤预制棒（11c）军用维度**：fiber-tethered drones（FPV无人机）纳入光纤需求计算，B级瓶颈论点轻微强化；④**IntelliEPI CEO再次确认**：Q1 2026 ER公开表态"InP衬底短缺是AI基础设施全行业瓶颈"，S级判断交叉验证 |
+| 2026-05-27 午后 | **第十九轮扫描（午后综合扫描）— 6项重要更新** | ①**NF3/WF6（3b条目）WF6库存临界时间线明确**：TrendForce原文"现有库存仅维持至2026年中"= **6-7月，距今1-2个月**，信号从"H2 2026潜在风险"升级为"近期临界催化剂"；②**Nittobo（ABF/T-glass，6条目）FY2026业绩确认**：净利¥38B（+3x YoY实际兑现），P/E修正为24.2x（绿灯基于实际数字），股息¥127，中期目标上调，股票拆分记录日6月29日；③**光纤预制棒（11c条目）价格数据强化**：欧洲G.652D Q1整体+136%（vs之前仅有1月单月+75%数据）；军民竞争角度：乌克兰无人机光纤价格涨8倍；④**钨（0c条目）价格分化**：中国国内APT 5/19已从峰值下跌55.3%（至RMB 680,000/吨），但欧洲国际APT仍$3,000-3,280/MTU（+241% from Jan 2026）；Trump-Xi峰会无具体钨出口管制放松协议；国际价格与Almonty销售价格相关，国内价格领先下跌是中期警示；⑤**Aixtron（MOCVD，8条目）Q2拐点确认**：Q2 2026指引收入€110M（Q1 €59M，+85%环比），光电子订单65%+，H2执行置信度提升；⑥**新监控事项**：Gallium/Germanium 11/27截止日升级监控优先级（无Trump-Xi延期承诺）；Centrus DOE Phase III 6/30到期需关注续约 |
