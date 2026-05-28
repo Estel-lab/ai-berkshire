@@ -1,8 +1,8 @@
 # 瓶颈猎手观察名单（持续更新）
 
-最后更新：2026-05-28 第三十六轮（11:30扫描）：全部评级不变；3项更新——①UAMY补录Stibnite Hill矿山采矿重启（2026-04-02，前次漏录）；②Centrus Oklo JV升级状态（从"洽谈"到"2026-03-09正式公告"）；③各催化剂倒计时更新。本轮之前：第三十五轮（日间扫描）：全部评级不变；TrendForce 4/20报告新入库（EML/光模块S级额外权威来源）
+最后更新：2026-05-28 第三十七轮（14:08扫描）：全部评级不变；Kanto Denka FY2027 ¥95B指引经TipRanks交叉验证属实；GEV Q1订单+71%再确认变压器S级；所有watchlist公司无新事件。本轮之前：第三十六轮（11:30扫描）：CoWoS 2028+缓解路线首见；UAMY Stibnite Hill补录；Centrus Oklo JV正式公告录入
 
-下次复查：**June 2 Chemring半年财报**（**4天后**，最紧迫）；**本周核实Kanto Denka FY2027指引原始公告**（高优先级）；**WF6中断新闻**（<3周临界，随时可能触发）；**June 1** Almonty新CFO Jorge Beristain就职；**June 8** Almonty Phase 2投票+首批Q2产量数据；**June 9** Almonty AGM；Centrus DOE续约（June 30到期，33天，若June 15前无公告升为实质风险事件）；日本GaN/GaAs厂商库存消耗时间线披露
+下次复查：**June 2 Chemring半年财报**（**4天后**，最紧迫）；**WF6中断新闻**（<4周临界，随时可能触发）；**June 1** Almonty新CFO Jorge Beristain就职；**June 8** Almonty Phase 2投票+首批Q2产量数据；**June 9** Almonty AGM；Centrus DOE续约（June 30到期，32天，若June 15前无公告升为实质风险事件）；日本GaN/GaAs厂商库存消耗时间线披露
 
 ---
 
