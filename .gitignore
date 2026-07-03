@@ -20,6 +20,3 @@ reports/美团/command-log.jsonl
 
 # ===== 本地资料区：不打算公开的文件放这个目录，永不入库 =====
 /local/
-
-# 组合真实持仓报告只存本地
-reports/portfolio-latest.md
