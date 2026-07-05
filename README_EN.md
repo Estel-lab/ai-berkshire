@@ -42,9 +42,9 @@ One person + Claude Code / Codex = an entire investment research team.
 
 **2025 Alpha**: Beat the S&P 500 by **50 percentage points**, beat the Hang Seng by **39 percentage points**
 
-**Significantly outperformed all major global indices for two consecutive years.**
+**Cumulative live returns exceed ¥1.46 million over two years**, significantly outperforming all major global indices for two consecutive years.
 
-> *Disclaimer: Past performance does not guarantee future results. Screenshots are from a real brokerage account (Futu Securities); absolute amounts are redacted, only percentage returns are shown.*
+> *Disclaimer: Past performance does not guarantee future results. Screenshots are from a real brokerage account (Futu Securities).*
 
 ---
 
