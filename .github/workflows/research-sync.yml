@@ -1,0 +1,41 @@
+name: AI Berkshire 研究同步
+on:
+  schedule:
+    - cron: '0 8 * * 1,4'
+  workflow_dispatch:
+    inputs:
+      stocks:
+        description: 股票代码 (逗号分隔)
+        required: true
+        default: 'NVDA,AAPL,GOOGL,MSFT,AMZN'
+permissions:
+  contents: write
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 生成工作表
+        env:
+          STOCKS: ${{ github.event.inputs.stocks || 'NVDA,AAPL,GOOGL,MSFT,AMZN' }}
+        run: python scripts/generate-worksheets.py
+      - name: 上传报告
+        uses: actions/upload-artifact@v4
+        with:
+          name: research-worksheets
+          path: reports/
+      - name: 提交到仓库
+        run: |
+          git config user.name "AI Berkshire Bot"
+          git config user.email "ai-berkshire-bot@users.noreply.github.com"
+          git add reports/ -f 2>/dev/null || true
+          find reports/ -type d -mtime +90 -maxdepth 1 -exec rm -rf {} + 2>/dev/null || true
+          git diff --cached --quiet || (
+            git commit -m "研究工作表 $(date +'%Y-%m-%d')"
+            git push
+          )
