@@ -1,0 +1,60 @@
+name: 选股筛历史回测
+
+on:
+  workflow_dispatch:
+    inputs:
+      years:
+        description: '回测年数'
+        required: false
+        default: '5'
+      tickers:
+        description: '标的（逗号分隔，留空用默认观察池+对照组）'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  backtest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 运行回测
+        run: |
+          DATE=$(date -u +%Y%m%d)
+          ARGS="--years ${{ github.event.inputs.years || '5' }}"
+          if [ -n "${{ github.event.inputs.tickers }}" ]; then
+            ARGS="$ARGS --tickers ${{ github.event.inputs.tickers }}"
+          fi
+          cd tools
+          python3 screener_backtest.py $ARGS \
+            --output "../reports/选股筛回测-${DATE}.md" \
+            --signals-json "/tmp/backtest_signals.json"
+          echo "REPORT=reports/选股筛回测-${DATE}.md" >> "$GITHUB_ENV"
+
+      - name: 上传信号明细
+        uses: actions/upload-artifact@v4
+        with:
+          name: backtest-signals
+          path: /tmp/backtest_signals.json
+
+      - name: 提交回测报告
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "$REPORT"
+          if git diff --cached --quiet; then
+            echo "报告无变化"
+            exit 0
+          fi
+          git commit -m "添加选股筛动量框架历史回测报告"
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
+          git push origin "HEAD:${GITHUB_REF_NAME}"
